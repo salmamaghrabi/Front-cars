@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family: "segeo ui light";
+    padding-top:38px
+}
+
+.navbar-brand img{
+    width:60px;
+    height: 60px;
+}
+
+.slide{
+    width:80%
+}
+
+.carousel-indicators li{
+    height: 30px;
+    border-radius: 50%;
+}
